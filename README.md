@@ -1,4 +1,4 @@
-#HI I'M FNAN <img align ="left" width="100px" src="https://user-images.githubusercontent.com/112914110/195467103-8b10bbc8-eaba-45a6-9923-3c3dc67c2046.gif" />
+ I’m gelzin 👌 Designer & Developer.
 
 
 <img align ="left" src="https://github-readme-stats.vercel.app/api?username=Fnanhabte&show_icons=true&theme=radical" />
