@@ -1,5 +1,5 @@
  <div align ="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=6000&pause=1000&color=F76873&width=435&lines=HEY+THERE+!+%F0%9F%91%8B%F0%9F%8F%BD;I'M+FNAN+;DESIGNER+%26+DEVELOPER;WELCOME+TO+MY+PAGE+%F0%9F%8C%A0" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5500&pause=5000&color=F76873&width=435&lines=HEY+THERE+!+I'M+FNAN+%F0%9F%91%8B%F0%9F%8F%BD;DESIGNER+%26+DEVELOPER;WELCOME+TO+MY+PAGE%F0%9F%8C%A0...!!!" />
   </div>
    <div align ="center">
  <h2>A passionate developer who wants to be a pioneer at what he is doing.</h2>
@@ -36,12 +36,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fnanhabte&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
  
-<div align="center">
+<div align="left">
    <br>  <br>  <br>  <br>  
-
-  <hr>
-<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=1000&color=F76873&width=435&lines=COMMUNICATION" alt="Typing SVG" /></a>
-   <hr style="border-color: blue;">
+<hr>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5500&pause=5000&color=F76873&width=435&lines=COMMUNICATION+%F0%9F%93%B6" alt="Typing SVG" /></a>
+ 
   <a align="left" href="https://twitter.com/GoodxHope" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a align="left" href="https://www.linkedin.com/in/fnan-habte-8483b0247/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin/logo" ></a>
  <a align="left" href="https://github.com/Fnanhabte" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="linkedin/logo"></a>
