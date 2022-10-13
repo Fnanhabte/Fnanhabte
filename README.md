@@ -1,5 +1,5 @@
  <div align ="center">
-<h1>I’m Fnan 👋🏽 Designer & Developer.</h1>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=5500&pause=1000&color=49F7E4&background=FFDD4100&width=435&lines=HEY+THERE!++%F0%9F%91%8B%F0%9F%8F%BD+;I'M+FNAN;Designer+%26+Developer.;WELCOME+TO+MY+PAGE+%F0%9F%8C%A0" />
   </div>
    <div align ="center">
  <h2>A passionate developer who wants to be a pioneer at what he is doing.</h2>
