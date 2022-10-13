@@ -26,6 +26,7 @@
 
 <div align="center">
 <img src="https://github.com/AnaProgramando/AnaProgramando/raw/1abca3c99b5e79e7d3887d75d484642f2e574f26/aa.gif">
+<img src="https://github.com/AnaProgramando/AnaProgramando/raw/output/github-contribution-grid-snake.svg">
 </div>
 
 <br><br>
