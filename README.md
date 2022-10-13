@@ -1,5 +1,4 @@
- ##I’m Fnan 👋🏽 Designer & Developer.
- 
+ I’m Fnan 👋🏽 Designer & Developer.
  
  <img align ="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
  
@@ -16,5 +15,5 @@
 <img align ="left" src="https://github-readme-stats.vercel.app/api?username=Fnanhabte&show_icons=true&theme=radical" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fnanhabte&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
