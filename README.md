@@ -39,7 +39,7 @@
 <div align="left">
    <br>  <br>  <br>  <br>  
 <hr>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5500&pause=5000&color=F76873&width=435&lines=COMMUNICATION+%F0%9F%93%B6" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=5500&pause=10000&color=F76873&width=435&lines=COMMUNICATION+%F0%9F%93%B6" alt="Typing SVG" /></a>
  
   <a align="left" href="https://twitter.com/GoodxHope" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a align="left" href="https://www.linkedin.com/in/fnan-habte-8483b0247/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin/logo" ></a>
