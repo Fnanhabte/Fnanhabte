@@ -32,12 +32,10 @@
 <br><br>
 <img align ="left" src="https://github-readme-stats.vercel.app/api?username=Fnanhabte&show_icons=true&theme=radical" />
 
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fnanhabte&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<img align ="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fnanhabte&langs_count=8" />
 
- 
 <div align="left">
-   <br>  <br>  <br>  <br>  
+   <br>  <br>  <br>  <br>  <br>  <br>  <br>  <br> 
 <hr>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=5500&pause=10000&color=F76873&width=435&lines=COMMUNICATION+%F0%9F%93%B6" alt="Typing SVG" /></a>
  
