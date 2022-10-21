@@ -27,7 +27,7 @@
 <div align="center">
 <img src="https://github.com/AnaProgramando/AnaProgramando/raw/1abca3c99b5e79e7d3887d75d484642f2e574f26/aa.gif">
 <img src="https://github.com/AnaProgramando/AnaProgramando/raw/output/github-contribution-grid-snake.svg">
-<br><br><br><br><br><br>
+
 </div>
 
 
@@ -35,7 +35,7 @@
 <br><br>
 <img align ="left" src="https://github-readme-stats.vercel.app/api?username=Fnanhabte&show_icons=true&theme=radical" />
 
-<img align ="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fnanhabte&langs_count=8" width="350" />
+<img align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fnanhabte&langs_count=8" width="350" />
 </div>
 <div align="left">
    <br>  <br><br><br><br><br><br><br><br><br>
