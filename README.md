@@ -8,4 +8,4 @@
       &nbsp  <a href="https://www.behance.net/fnanhabte"><img src="https://img.shields.io/badge/behance-DARKGOLDENROD?logo=instagram&logoColor=white&style=for-the-badge" alt="linkedin icon"></a>
 </div>
 
-<h1 align="center">Hello Fellow < Developers/ > 👋 I'm Fnan Habte</h1>
+<p>welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called Barnamenevisinsta that shares everything I learn about programming.</p>
