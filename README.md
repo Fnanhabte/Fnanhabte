@@ -1,53 +1,12 @@
- <div align ="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5500&pause=5000&color=F76873&width=435&lines=HEY+THERE+!+I'M+FNAN+%F0%9F%91%8B%F0%9F%8F%BD;DESIGNER+%26+DEVELOPER;WELCOME+TO+MY+PAGE%F0%9F%8C%A0...!!!" />
-  </div>
-   <div align ="center">
- <h2>A passionate developer who wants to be a pioneer at what he is doing.</h2>
-  </div>
- <div align ="center">
-  
+![Quotes](https://github.com/Fnanhabte/fnanhabte/blob/main/quotes.jpg)
+<div>
+ <a href="https://twitter.com/GoodxHope"><img src="https://img.shields.io/badge/Twitter-purple?logo=Twitter&logoColor=white&style=for-the-badge" alt="twitter icon"></a>
+  <a href="https://www.linkedin.com/in/fnan-habte-8483b0247/"><img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin icon"></a>
+   <a href="https://www.instagram.com/fnanthegoat/?hl=en"><img src="https://img.shields.io/badge/instagram-orange?logo=instagram&logoColor=white&style=for-the-badge" alt="linkedin icon"></a>
+    <a href=" https://www.facebook.com/fnan.habte.7"><img src="https://img.shields.io/badge/facebook-skyblue?logo=instagram&logoColor=white&style=for-the-badge" alt="linkedin icon"></a>
+     <a href="https://dribbble.com/yonifnan"><img src="https://img.shields.io/badge/dribbble-pink?logo=instagram&logoColor=white&style=for-the-badge" alt="linkedin icon"></a>
+      <a href="https://www.behance.net/fnanhabte"><img src="https://img.shields.io/badge/behance-DARKGOLDENROD?logo=instagram&logoColor=white&style=for-the-badge" alt="linkedin icon"></a>
  
- I identify myself as a person who is hungry for knowledge and dedicated to learning. <br>I continue to progress in life using research skills and accumulated experience,  following a "be your own teacher" philosophy.
-</div>
  
- <div align ="center">
- <h3> My Tools!</h3>
- 
- <img  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
- 
-<img  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  
-<img  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JAVASCRIPT/logo"/>
-
-<img  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
- 
- <img  src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
  
 </div>
-
-<div align="center">
-<img src="https://github.com/AnaProgramando/AnaProgramando/raw/1abca3c99b5e79e7d3887d75d484642f2e574f26/aa.gif">
-<img src="https://github.com/AnaProgramando/AnaProgramando/raw/output/github-contribution-grid-snake.svg">
-
-</div>
-
-
-<div align="center">
-<br><br>
-<img align ="left" src="https://github-readme-stats.vercel.app/api?username=Fnanhabte&show_icons=true&theme=radical" />
-
-<img align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fnanhabte&langs_count=8" width="320" top="-1000px"/>
-</div>
-<div align="left">
-   <br>  <br><br><br><br><br><br><br><br><br>
-<hr>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=5500&pause=10000&color=F76873&width=435&lines=COMMUNICATION+%F0%9F%93%B6" alt="Typing SVG" /></a>
- 
-  <a align="left" href="https://twitter.com/GoodxHope" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a align="left" href="https://www.linkedin.com/in/fnan-habte-8483b0247/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin/logo" ></a>
- <a align="left" href="https://github.com/Fnanhabte" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="linkedin/logo"></a>
- 
-</div>
- 
