@@ -13,5 +13,5 @@
 
 Feel free to check out my repositories and connect with me on GitHub. I'm always open to new opportunities and collaborations, so don't hesitate to reach out!
 
-<img src="https://github.com/Fnanhabte/fnanhabte/blob/main/Tools.gif" alt="Tools/gif">
+<img src="https://github.com/Fnanhabte/fnanhabte/blob/main/skills-tools.gif" alt="Tools/gif">
 
