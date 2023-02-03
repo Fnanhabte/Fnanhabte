@@ -61,7 +61,11 @@
     <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
   <br>Tailwind
 </td>
-
 </table>
+
+[![Fnan activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fnanhabte)](https://github.com/fnanhabte/github-readme-activity-graph)
+
+
+
 
 
