@@ -3,9 +3,9 @@
  <a href="https://twitter.com/GoodxHope"><img src="https://img.shields.io/badge/Twitter-purple?logo=Twitter&logoColor=white&style=for-the-badge" alt="twitter icon"></a>
    &nbsp <a href="https://www.linkedin.com/in/fnan-habte-8483b0247/"><img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin icon"></a>
     &nbsp <a href="https://www.instagram.com/fnanthegoat/?hl=en"><img src="https://img.shields.io/badge/instagram-orange?logo=instagram&logoColor=white&style=for-the-badge" alt="linkedin icon"></a>
-     &nbsp <a href=" https://www.facebook.com/fnan.habte.7"><img src="https://img.shields.io/badge/facebook-skyblue?logo=facebook&logoColor=white&style=for-the-badge" alt="linkedin icon" max-width=></a>
-     &nbsp  <a href="https://dribbble.com/yonifnan"><img src="https://img.shields.io/badge/dribbble-pink?logo=dribbble&logoColor=white&style=for-the-badge" alt="linkedin icon"></a>
-      &nbsp  <a href="https://www.behance.net/fnanhabte"><img src="https://img.shields.io/badge/behance-DARKGOLDENROD?logo=behance&logoColor=white&style=for-the-badge" alt="linkedin icon"></a>
+     &nbsp <a href=" https://www.facebook.com/fnan.habte.7"><img src="https://img.shields.io/badge/facebook-skyblue?logo=instagram&logoColor=white&style=for-the-badge" alt="linkedin icon" max-width=></a>
+     &nbsp  <a href="https://dribbble.com/yonifnan"><img src="https://img.shields.io/badge/dribbble-pink?logo=instagram&logoColor=white&style=for-the-badge" alt="linkedin icon"></a>
+      &nbsp  <a href="https://www.behance.net/fnanhabte"><img src="https://img.shields.io/badge/behance-DARKGOLDENROD?logo=instagram&logoColor=white&style=for-the-badge" alt="linkedin icon"></a>
 </div>
 
 <h1 align="center"> HELLO THERE I'M FNAN HABTE DESIGNER & DEVELOPER.</h1>
@@ -65,7 +65,5 @@
 
 [![Fnan activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fnanhabte&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/fnanhabte/github-readme-activity-graph)
 
-
-
-
+<pre align="center"> &#128161; A man's aim in life is the <em>reflection</em> of his opinion of himself. <em>Move your stake higher</em>, Go in to win and <strong>stick</strong> to it. &#128161;</pre> 
 
