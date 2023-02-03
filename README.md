@@ -9,10 +9,10 @@
 </div>
 
 <h1 align="center"> HELLO THERE I'M FNAN HABTE DESIGNER & DEVELOPER.</h1>
-<p> Welcome to my GitHub Page. I am Fnan Habte a passionate developer who wants to be a pioneer at what he is doing. I identify myself as a person who is hungry for knowledge and dedicated to learning. I continue to progress in life using research skills and accumulated experience, following a "be your own teacher" philosophy. I have been programming for almost 2 years and worked with many languages and technologies. 
+<p> Welcome to my GitHub Page. I am Fnan Habte a passionate developer who wants to be a pioneer at what he is doing. I identify myself as a person who is hungry for knowledge and dedicated to learning. I continue to progress in life using research skills and accumulated experience, following a "be your own teacher" philosophy. I have been programming for almost 2 years and worked with many languages and technologies. Feel free to check out my repositories and connect with me on GitHub. I'm always open to new opportunities and collaborations, so don't hesitate to reach out!
 
-Feel free to check out my repositories and connect with me on GitHub. I'm always open to new opportunities and collaborations, so don't hesitate to reach out!
-
+>
+ 
 <img src="https://github.com/Fnanhabte/fnanhabte/blob/main/skills-tools.gif" alt="Tools/gif">
  
   <table>
