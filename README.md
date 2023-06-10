@@ -63,7 +63,3 @@
 </td>
 </table>
 
-[![Fnan activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fnanhabte&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/fnanhabte/github-readme-activity-graph)
-
-<pre align="left"> &#128161; A man's aim in life is the <em>reflection</em> of his opinion of himself. <em>Move your stake higher</em>, Go in to win and <strong>stick</strong> to it.</pre> 
-
