@@ -1,13 +1,14 @@
-![Quote](https://github.com/Fnanhabte/fnanhabte/blob/main/Image.jpg)
 <div align="center">
  <a href="https://twitter.com/GoodxHope"><img src="https://img.shields.io/badge/Twitter-purple?logo=Twitter&logoColor=white&style=for-the-badge" alt="twitter icon"></a>
    &nbsp <a href="https://www.linkedin.com/in/fnan-habte-8483b0247/"><img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin icon"></a>
      &nbsp </a>
-     
 </div>
-
 <h1 align="center"> HELLO THERE DEVELOPERS.</h1>
-<p> Welcome to my GitHub Page. I am Fnan Habte a passionate developer who wants to be a pioneer at what he is doing. I have been programming for almost 2 years and have worked with many languages and technologies. I'm always open to new opportunities and collaborations.<strong>Check out my repositories and connect with me.</strong>
+
+![Website](https://github.com/Fnanhabte/fnanhabte/blob/main/devlogo.png)
+
+
+<p> Welcome to my GitHub Page. I am Fnan Habte a passionate developer who wants to be a pioneer at what he is doing. I have been programming for almost 2 years and have worked with many languages and technologies. I'm always open to new opportunities and collaborations.<a href="https://fnandev.com/" > <strong>Check out my repositories and connect with me.</strong> </a>
 
 >
  
