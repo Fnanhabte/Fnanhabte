@@ -1,6 +1,6 @@
 <div align="center">
  <a href="https://twitter.com/GoodxHope"><img src="https://img.shields.io/badge/Twitter-purple?logo=Twitter&logoColor=white&style=for-the-badge" alt="twitter icon"></a>
-   &nbsp <a href="https://www.linkedin.com/in/fnan-habte-8483b0247/"><img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin icon"></a>
+   &nbsp <a href="https://www.linkedin.com/in/fnan-habte-b206b427a/"><img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin icon"></a>
      &nbsp </a>
 </div>
 <h1 align="center"> HELLO THERE DEVELOPERS.</h1>
